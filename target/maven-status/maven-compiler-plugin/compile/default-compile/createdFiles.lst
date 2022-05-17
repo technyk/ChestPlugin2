@@ -1,0 +1,5 @@
+me\technyk\chestplugin2\listeners\chestOpen.class
+me\technyk\chestplugin2\commands\checkOwner.class
+me\technyk\chestplugin2\commands\manageChest.class
+me\technyk\chestplugin2\listeners\chestPlacement.class
+me\technyk\chestplugin2\ChestPlugin2.class

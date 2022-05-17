@@ -1,0 +1,11 @@
+name: ChestPlugin2
+version: '${project.version}'
+main: me.technyk.chestplugin2.ChestPlugin2
+api-version: 1.16
+authors: [ technyk ]
+description: A locking chest plugin
+commands:
+  checkOwner:
+    description: Get the owner of a registered chest. Use this when looking at the chest
+  manageChest:
+    description: Manage the people that are allowed to modify the chest
