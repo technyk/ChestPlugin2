@@ -1,7 +1,7 @@
 # ChestPlugin2
 
 **NOTICE:** This plugin is NOT made to be used on servers, as it is NOT fully stable yet! Use at your own risk.  
-This plugin was only made for demonstratation purposes. If you'd like to contribute to the plugin, open a [pull request](https://github.com/technyk/ChestPlugin2/pulls)
+This plugin was only made for demonstration purposes. If you'd like to contribute to the plugin, open a [pull request](https://github.com/technyk/ChestPlugin2/pulls)
 
 A plugin made for Minecraft which locks chests upon placement.
 
